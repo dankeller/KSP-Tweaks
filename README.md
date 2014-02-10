@@ -1,7 +1,7 @@
 KAS-Extensions for [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
 ============================================================================
 
-Settings to extend [Kerbal Attachment System](https://github.com/KospY/KAS) functionality (eva grab, attachment & storage) to other non-supported mod parts.
+Settings to extend [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/threads/53134) functionality (eva grab, attachment & storage) to other non-supported mod parts.
 
 Requires [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219)
 
