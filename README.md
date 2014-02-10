@@ -11,7 +11,7 @@ ToDo
 ----
 * [B9 Aerospace](http://forum.kerbalspaceprogram.com/threads/25241)
 * [KW Rocketry](http://forum.kerbalspaceprogram.com/threads/51037)
-* [KSP Interstellar](https://github.com/FractalUK/KSPInterstellar)
+* [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839)
 * More?...
 
 Please fork and submit pull requests to add your favorite parts! Cherck the GameData\KAS\AddModule.cfg for settings ideas for certain parts. I just look for a stock part that is similar to the part I am working on and use those settings. Then tweak to what makes sense.
