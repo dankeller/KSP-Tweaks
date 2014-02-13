@@ -7,6 +7,10 @@ Requires [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219)
 
 Copy or clone this repository into your GameData folder to use. Enjoy!
 
+Example:
+--------
+![Longterm EVA time...](http://imgur.com/JNbcsHK)
+
 ToDo
 ----
 * [B9 Aerospace](http://forum.kerbalspaceprogram.com/threads/25241)
