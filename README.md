@@ -9,7 +9,7 @@ Copy or clone this repository into your GameData folder to use. Enjoy!
 
 Example:
 --------
-![Longterm EVA time...](http://imgur.com/JNbcsHK)
+![Longterm EVA time...](http://i.imgur.com/JNbcsHK.jpg)
 
 ToDo
 ----
