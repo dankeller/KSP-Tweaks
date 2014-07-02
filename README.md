@@ -1,14 +1,16 @@
-KAS-Extensions for [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+Tweaks for [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
 ============================================================================
 
-Settings to extend [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/threads/53134) functionality (eva grab, attachment & storage) to other non-supported mod parts.
+Tweaks to adjust how mods work and interact with eachother in Kerbal Space Program.
 
 Requires [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219)
+Certain settings require [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/threads/53134)
 
-Copy or clone this repository into your GameData folder to use. Enjoy!
+Copy or clone this repository into your GameData folder to use. Each cfg file is named for the mod it adjusts. Simply delete any cfg file for mods you don't use. Enjoy!
 
 Example:
 --------
+Adding KAS functionality to non-supported parts:
 ![Longterm EVA time...](http://i.imgur.com/JNbcsHK.jpg)
 
 ToDo
